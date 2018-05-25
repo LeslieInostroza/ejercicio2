@@ -1,0 +1,23 @@
+.caja1 {
+    background-color: lawngreen;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 400px;
+}
+.caja2 {
+    background-color: navy;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+.caja3{
+    background-color: orangered;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+    bottom: 800px;
+}
